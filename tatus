@@ -1,0 +1,53 @@
+[33mcommit 639f9e84bfc6e6c81f71e670451c67e9d0878d4a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Carlos.Christian <carlos.programation@hotmail.comgit config --global user.email carlos.programation@hotmail.com>
+Date:   Sat Mar 9 22:24:17 2024 -0300
+
+    adicionado método de almentar salário
+
+[33mcommit 21c9af9163628c6353a10507ebfb05126cf5aeb8[m
+Author: Carlos.Christian <carlos.programation@hotmail.comgit config --global user.email carlos.programation@hotmail.com>
+Date:   Sat Mar 9 22:17:01 2024 -0300
+
+    adicionado método para calcular salário líquido
+
+[33mcommit 63f5e12ef68dff571d11d784eab832f981bbff78[m
+Author: Carlos.Christian <carlos.programation@hotmail.comgit config --global user.email carlos.programation@hotmail.com>
+Date:   Sat Mar 9 22:15:45 2024 -0300
+
+    adicionado os atributos a classe
+
+[33mcommit fbfc7f7158d779c65b087cb83fb03e3ea1379f0c[m
+Author: Carlos.Christian <carlos.programation@hotmail.comgit config --global user.email carlos.programation@hotmail.com>
+Date:   Sat Mar 9 22:14:15 2024 -0300
+
+    iniciado o projeto em orientação a objetos
+
+[33mcommit 77abda0cb13cf789cc6ed79dfbc25fa0187cfefb[m
+Author: Carlos.Christian <carlos.programation@hotmail.comgit config --global user.email carlos.programation@hotmail.com>
+Date:   Sat Mar 9 22:10:12 2024 -0300
+
+    adicionada a função de almento de salário E impresso o novo salário na tela. fim do projeto procedural.
+
+[33mcommit 99959b144fa8c467e5a99cda05e0e7af77ef8db2[m
+Author: Carlos.Christian <carlos.programation@hotmail.comgit config --global user.email carlos.programation@hotmail.com>
+Date:   Sat Mar 9 21:54:39 2024 -0300
+
+    imprimindo as informações do usuário na tela.
+
+[33mcommit 70126db894952ea3af7abb823bd60776911ff8f6[m
+Author: Carlos.Christian <carlos.programation@hotmail.comgit config --global user.email carlos.programation@hotmail.com>
+Date:   Sat Mar 9 21:51:04 2024 -0300
+
+    adicionada a função para calcular o salário líquido.
+
+[33mcommit abc8a1eab8f12859ee39b295e589e46b8fba3c08[m
+Author: Carlos.Christian <carlos.programation@hotmail.comgit config --global user.email carlos.programation@hotmail.com>
+Date:   Sat Mar 9 21:49:03 2024 -0300
+
+    solicitando as informações do usuário
+
+[33mcommit da0099645ed4b0f0d7fd2056fb3fd980f38b3e5a[m
+Author: Carlos.Christian <carlos.programation@hotmail.comgit config --global user.email carlos.programation@hotmail.com>
+Date:   Sat Mar 9 21:46:07 2024 -0300
+
+    iniciado o projeto com git ignore

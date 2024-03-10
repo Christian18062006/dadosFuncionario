@@ -21,10 +21,9 @@ namespace DadosFuncionários
             quantidadeAlmento = double.Parse(Console.ReadLine());
             double almento = (quantidadeAlmento * salarioBruto) / 100;
             salarioBruto += almento;
-            double novoSalario = salarioLiquido(salarioBruto, imposto);
+            double novoSalario = salarioBruto - (salarioBruto * imposto / 100);
             Console.WriteLine($"O novo salário é: {novoSalario.ToString("C2")}");
                    }
     }
 
     }
-}

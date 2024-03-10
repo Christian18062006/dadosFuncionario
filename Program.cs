@@ -37,6 +37,15 @@ namespace DadosFuncionários
 
             double novoSalario = calculaSalario(salarioBruto, imposto);
             Console.WriteLine($"o novo salário é: {novoSalario.ToString("C2")}");
+            //usando a classe//
+            DadosFuncionario funcionario = new DadosFuncionario();
+            funcionario.nome = nome;
+            funcionario.salarioBruto = salarioBruto;
+            funcionario.imposto = imposto;
+            double salario1 = funcionario.salarioLiquido();
+            Console.Write(funcionario.nome);
+            Console.WriteLine($"O salário líquido do funcionário é: {salario1.ToString("C2")}");
+            funcionario.almentaSalario();
         }
     }
 }
