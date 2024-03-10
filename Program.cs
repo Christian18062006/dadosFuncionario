@@ -4,6 +4,11 @@ namespace DadosFuncionários
 {
     class Program
     {
+        public static double calcularSalario(double salarioBruto, double imposto)
+        {
+            double salarioLiquido = salarioBruto - (salarioBruto * imposto / 100);
+            return (salarioLiquido);
+        }
         static void Main(string[] args)
         {
             string nome = string.Empty;
