@@ -21,6 +21,9 @@ namespace DadosFuncionários
             salarioBruto = double.Parse(Console.ReadLine());
             Console.WriteLine("digite o imposto.");
             imposto = double.Parse(Console.ReadLine());
+            double salarioLiquido = calcularSalario(salarioBruto, imposto);
+            Console.Write($"Nome do funcionário: {nome}");
+            Console.WriteLine($"Salário líquido: {salarioLiquido.ToString("C2")}");
         }
     }
 }
