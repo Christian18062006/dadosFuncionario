@@ -6,6 +6,9 @@ namespace DadosFuncionários
 {
     class DadosFuncionario
     {
+        public string nome = string.Empty;
+        public double salarioBruto;
+        public double imposto;
 
     }
 
